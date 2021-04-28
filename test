@@ -2,4 +2,4 @@ echo "test" > /tmp/test.txt
 
 wget https://raw.githubusercontent.com/Jigsaw-Code/outline-releases/master/manager/stable/Outline-Manager.AppImage
 
-chmod u+x Outline-Client.AppImage
+chmod u+x Outline--Manager.AppImage
