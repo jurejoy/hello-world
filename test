@@ -1,1 +1,5 @@
 echo "test" > /tmp/test.txt
+
+sudo bash -c "$(wget -qO- https://raw.githubusercontent.com/Jigsaw-Code/outline-releases/master/manager/stable/Outline-Manager.AppImage)"
+
+chmod u+x Outline-Client.AppImage
